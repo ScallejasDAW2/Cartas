@@ -1,0 +1,12 @@
+body *{
+	color: white;
+}
+body {
+	background-color: black;
+}
+input, select, textarea, button{
+    color: #ff0000;
+}
+table.rpgchart_show > tbody tr td,table.rpgchart_show > tbody tr th, table > tbody tr td, table.rpgchart > tbody tr td, table.rpgchart > tbody tr th {
+	border: white 1px solid !important;
+}

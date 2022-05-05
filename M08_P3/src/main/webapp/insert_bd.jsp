@@ -7,6 +7,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Rpg Card Generator</title>
+<link type="text/css" rel="stylesheet" href="css/newstyles.css" />
  <link rel="stylesheet" href="css/styles.css" type="text/css" />
 </head>
 <body>
