@@ -6,7 +6,6 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<link type="text/css" rel="stylesheet" href="css/newstyles.css" />
 <link type="text/css" rel="stylesheet" href="css/styles.css" />
 </head>
 <body>

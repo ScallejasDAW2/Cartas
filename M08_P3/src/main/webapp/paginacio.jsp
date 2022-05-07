@@ -6,7 +6,6 @@
 <head>
 <meta charset="US-ASCII">
 <title>Rpg Card Generator</title>
-<link type="text/css" rel="stylesheet" href="css/newstyles.css" />
  <link rel="stylesheet" href="css/styles.css" type="text/css" />
 </head>
 <h1 class="mid">Mirar Cartas</h1>
