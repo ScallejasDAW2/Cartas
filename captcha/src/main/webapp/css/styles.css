@@ -1,0 +1,74 @@
+p.mid, h1.mid{
+	text-align: center;
+	margin: 10 auto;
+}
+td.mid > select {
+	width:100%;
+	height:100%;
+}
+table{
+	border: black 1px solid;
+	border-collapse: collapse;
+}
+table > tbody tr td{
+	border: black 1px solid;
+	padding: 5px;
+}
+table.rpgchart{
+	border: black 1px solid;
+	border-collapse: collapse;
+	margin: 0 auto;
+	height: 600px;
+}
+table.rpgchart > tbody tr td,table.rpgchart > tbody tr th{
+	border: black 1px solid;
+	padding: 5px;
+}
+table.rpgchart > tbody tr td:nth-child(n+1),table#rpgchart > tbody tr th:nth-child(n+2){
+	width:15%;
+}
+table.rpgchart > tbody tr:nth-child(1) th:nth-child(1){
+	height:20px;
+}
+div.imgcontainer img {
+	max-width:300px;
+	min-width:300px;
+	min-height:100%;
+	object-fit: cover;
+}
+.container{
+	width:100%;
+}
+.hpbar{
+	background-color:red;
+	height:10px;
+}
+.mpbar{
+	background-color:blue;
+	height:10px;
+}
+table.rpgchart_show{
+	border: black 1px solid;
+	border-collapse: collapse;
+	width:48%;
+	height:600px;
+	box-sizing: border-box;
+}
+table.rpgchart_show > tbody tr td,table.rpgchart_show > tbody tr th{
+	border: black 1px solid;
+	padding: 5px;
+}
+table.rpgchart_show > tbody tr td:nth-child(2){
+	width:30%;
+}
+table.rpgchart_show > tbody tr:nth-child(1) th:nth-child(1){
+	height:20px;
+}
+div#show{
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	align-items: center;
+ 	justify-content: center;
+}
